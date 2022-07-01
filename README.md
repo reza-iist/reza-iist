@@ -1,7 +1,7 @@
 
 # Hi there 👋, my name is Dr. Sheikh Abu Reza
 #### I am  a web developer 
-![I am  a web developer ](https://media-exp2.licdn.com/dms/image/C5603AQFNMA-6ydD_bw/profile-displayphoto-shrink_200_200/0/1516887461686?e=1661990400&v=beta&t=rZJWb24X4rkUpW1AB5FuhaNVRl8eXNkMDIZEUmL-lP0)
+![I am  a web developer ](https://media-exp2.licdn.com/dms/image/C4D16AQE-wpqe9kwnCQ/profile-displaybackgroundimage-shrink_200_800/0/1656719149186?e=1661990400&v=beta&t=LG9hSSZNE4CgR2hRSn52vCM5IIHBGaZtLNYfR2J8uAQ)
 
 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
