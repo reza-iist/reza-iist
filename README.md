@@ -4,14 +4,6 @@
 #### I am  a web developer 
 Skills: PHP / WORDPRESS / JS / HTML / CSS
 
-Here are some ideas to get you started:
-
  🔭 I’m currently working as web developer
  🌱 I’m currently learning global digital management
- 👯 I’m looking to collaborate on IIST
- 🤔 I’m looking for help with 
- 💬 Ask me about dynamic web development
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
-
+ 
