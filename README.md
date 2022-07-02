@@ -9,4 +9,4 @@ Skills: PHP / WORDPRESS / JS / HTML / CSS
  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/reza-iist)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/iistofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://iist-mirpur.edu.bd) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sheikh-abu-reza-068ab43b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BAxdwyeO4RGWGsg9nu292eA%3D%3D)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC0MlrhK6shN0HetYQjbDeIw)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='30'>](https://www.youtube.com/channel/UC0MlrhK6shN0HetYQjbDeIw)
