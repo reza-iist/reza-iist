@@ -2,7 +2,7 @@
 
 # Hi there 👋, my name is Dr. Sheikh Abu Reza
 #### I am  a web developer 
-Skills: PHP / WORDPRESS / JS / HTML / CSS / C /Python
+Skills: PHP / WORDPRESS / JS / HTML / CSS / C / Python
 
  🔭 I’m currently working as web developer
  🌱 I’m currently learning global digital management
