@@ -1,4 +1,4 @@
-![I am  a web developer ](https://media-exp2.licdn.com/dms/image/C4D16AQE-wpqe9kwnCQ/profile-displaybackgroundimage-shrink_200_800/0/1656719149186?e=1661990400&v=beta&t=LG9hSSZNE4CgR2hRSn52vCM5IIHBGaZtLNYfR2J8uAQ)
+![I am  a web developer ](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=1000x400)
 
 # Hi there 👋, my name is Dr. Sheikh Abu Reza
 #### I am  a web developer 
